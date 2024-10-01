@@ -5,11 +5,11 @@
 // mod variables_3;
 // mod variables_4;
 // mod variables_5;
-mod variables_6;
+// mod variables_6;
 // mod primitive_types_1;
 // mod primitive_types_2;
 // mod primitive_types_3;
-// mod primitive_types_4;
+mod primitive_types_4;
 // mod operations_1;
 // mod operations_2;
 // mod if_1;
