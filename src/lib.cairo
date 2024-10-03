@@ -9,11 +9,11 @@
 // mod primitive_types_1;
 // mod primitive_types_2;
 // mod primitive_types_3;
-mod primitive_types_4;
+// mod primitive_types_4;
 // mod operations_1;
 // mod operations_2;
 // mod if_1;
-// mod if_2;
+mod if_2;
 // mod functions_1;
 // mod functions_2;
 // mod functions_3;
