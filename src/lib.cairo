@@ -23,9 +23,9 @@
 // mod loops_2;
 // mod enums_1;
 // mod enums_2;
-mod enums_3;
+// mod enums_3;
 // mod options_1;
-// mod options_2;
+mod options_2;
 // mod options_3;
 // mod arrays_1;
 // mod arrays_2;
