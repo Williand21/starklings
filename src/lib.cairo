@@ -25,11 +25,11 @@
 // mod enums_2;
 // mod enums_3;
 // mod options_1;
-mod options_2;
+// mod options_2;
 // mod options_3;
 // mod arrays_1;
 // mod arrays_2;
-// mod arrays_3;
+mod arrays_3;
 // mod structs_1;
 // mod structs_2;
 // mod structs_3;
