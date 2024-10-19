@@ -19,7 +19,5 @@ fn test_arrays3() {
     let mut a = create_array();
     //TODO modify the method called below to make the test pass.
     // You should not change the index accessed.
-    // a.get(2);
-    a.append(3);
-    a.at(2);
+    assert(a.get(2).is_none() , 'Index 2 out of bounds');
 }
