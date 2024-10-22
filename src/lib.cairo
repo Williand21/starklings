@@ -29,10 +29,10 @@
 // mod options_3;
 // mod arrays_1;
 // mod arrays_2;
-mod arrays_3;
+// mod arrays_3;
 // mod structs_1;
 // mod structs_2;
-// mod structs_3;
+mod structs_3;
 // mod move_semantics_1;
 // mod move_semantics_2;
 // mod move_semantics_3;
