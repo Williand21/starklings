@@ -32,10 +32,10 @@
 // mod arrays_3;
 // mod structs_1;
 // mod structs_2;
-mod structs_3;
+// mod structs_3;
 // mod move_semantics_1;
 // mod move_semantics_2;
-// mod move_semantics_3;
+mod move_semantics_3;
 // mod move_semantics_4;
 // mod move_semantics_5;
 // mod move_semantics_6;
